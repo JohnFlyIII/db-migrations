@@ -1,0 +1,1 @@
+../lib/flyway-10.6.0/flyway -configFiles="../pg.conf" migrate
